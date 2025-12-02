@@ -33,7 +33,7 @@ Portafolio-IA-Avanzada/
 **Módulo 5 – Estadística:** https://colab.research.google.com/drive/1fcx4FnOaP4nCQ8P_bIEbZ1-hF1kireO8?usp=sharing
 
 **Reto – Anonimización de los datos:**
-- Investigación individual: https://docs.google.com/document/d/1Utjg57LrXbA4Uxh0T49b0ZERAuk5NNWTpFIjGaU3Zwg/edit?usp=sharing
+- Investigación individual: https://drive.google.com/file/d/17eFL1RcmtyDgKKm4CHGTYMuxWCqFY6mA/view?usp=sharing
 - Política de Datos y Acceso: https://drive.google.com/file/d/1GUCYkPfzYZralqxZovYljXE1puJDKmSu/view?usp=sharing
 
 ---
